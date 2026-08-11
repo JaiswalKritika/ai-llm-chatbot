@@ -72,4 +72,4 @@ ai-llm-chatbot/
 
 **Kritika Jaiswal**  
 - GitHub: [@JaiswalKritika](https://github.com/JaiswalKritika)  
-- LinkedIn: [Kritika Jaiswal](https://www.linkedin.com/in/kritika-jaiswal-1405)
+- LinkedIn: [Kritika Jaiswal](https://www.linkedin.com/in/kritika-jaiswal205)
